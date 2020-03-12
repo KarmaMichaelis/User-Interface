@@ -64,10 +64,31 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*top of page*/
 nav {
 	display:inline-block;
 	width:50%;
 	margin-left:50%;
 }
+nav a{
+margin:12px;
+text-align:center;
+}	
+
+/*bottom-top*/
+h1{
+	font-size:xxx-large;
+	width: 1.6%;
+	
+}
+.button{
+	text-align:center;
+	border: 2px solid grey;
+	padding: 12px;
+	width:12%;
+
+	
+}
+
    
  
